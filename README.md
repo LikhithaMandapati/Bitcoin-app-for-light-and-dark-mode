@@ -8,7 +8,7 @@ This Xcode project is designed to fetch and display current bitcoin data using t
 
 To get your API key, follow these steps:
 
-1. Visit [CoinAPI](https://www.coinapi.io)) and create a free account if you don't already have one.
+1. Visit [CoinAPI](https://www.coinapi.io) and create a free account if you don't already have one.
 2. Once logged in, navigate to your dashboard and look for an option to generate a new API key.
 
 ## Configuring the Project
